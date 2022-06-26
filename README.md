@@ -135,3 +135,9 @@ raise Exception("""Your license does not allow generating programs with more tha
 
 
 ### RESULTS :  
+
+![image](https://user-images.githubusercontent.com/94165326/175799213-8b88e112-9529-4a43-b625-1e9b53805c6e.png)
+
+![image](https://user-images.githubusercontent.com/94165326/175799225-f722f0a9-2b61-49fc-a693-60fece5e2c8d.png)
+
+![image](https://user-images.githubusercontent.com/94165326/175799229-417c1459-1c19-4a58-a166-536374e156a7.png)
